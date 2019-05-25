@@ -1,3 +1,8 @@
+/* Ethan Shipston
+ * 27/5/2019
+ * ICS4U
+ * A program which calculates the zeros of a quadratic formula & graphs it.
+ */
 using System;
 using System.Collections.Generic;
 using System.Linq;
